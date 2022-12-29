@@ -19,13 +19,16 @@ Why two networks? Because it adds stability to training. In short, we are learni
 
 Goal
 The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
+
 Reacher environment  used: UnityEnvironment(file_name="/data/Tennis_Linux_NoVis/Tennis")
-Getting Started:
-What you need to install 
-Pytorch
-Python 3x
+
+Getting Started:What you need to install 
+-Pytorch
+-Python 3x
+
 Instructions:
-How to Run, simple agent:
+
+
 Github Link:
 https://github.com/ChristianET-DS/Multi-Agent-Final-Project/blob/main/TennisFinal.ipynb
 
